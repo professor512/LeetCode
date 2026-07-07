@@ -1,3 +1,5 @@
+
+// valid palindrom leetcode
 class Solution {
 public:
     bool isPalindrome(string &s, int i = 0) {
