@@ -23,3 +23,5 @@ public:
         return ans;
     }
 };
+
+// simple 2 pointer solution
