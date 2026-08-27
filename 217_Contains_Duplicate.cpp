@@ -12,3 +12,5 @@ public:
         return false;
     }
 };
+
+// count() returns 0, 1 based on element present or not
